@@ -1,0 +1,6 @@
+{
+  "name": "AURA Music",
+  "description": "Mobile-first immersive music streaming web app with vertical swipe discovery, synchronized lyrics, real-time audio playback, and modular recommendation architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
